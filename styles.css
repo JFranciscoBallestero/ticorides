@@ -1,4 +1,3 @@
-/*  */
 .container {
     display:  contents;
     flex-wrap: wrap;
@@ -8,19 +7,11 @@
     justify-content: center;
 }
 
-/* Used to accomodate the image used for the main banner */
 .image{
     flex-shrink: 0;
     position: relative;
     top: 10px;
     text-align: center;
-}
-
-.bd{
-    text-align: center;
-    align-items: center;
-    align-content: center;
-    margin: auto;
 }
 
 .img{
@@ -91,7 +82,12 @@
 	text-shadow:0px 1px 0px #ffffff;
 }
 
-
+.bd{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin: auto;
+}
 
 .entry{
     border: none;
