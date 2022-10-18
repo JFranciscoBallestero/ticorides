@@ -246,6 +246,15 @@ table.left {
     text-align: left;
 }
 
+table.left {
+    text-align: left;
+}
+
+table.leftB {
+    border: black solid;
+    text-align: left;
+}
+
 .topnav {
     border-radius:6px;
     border-style: groove;
