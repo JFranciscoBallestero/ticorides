@@ -111,6 +111,23 @@ button.cancel{
     margin-left: -270px;
 }
 
+button.cancelSet{   
+    box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #eb8d8d 5%, #c73333 100%);
+	background-color:#f9f9f9;
+	border-radius:6px;
+	border:1px solid #000000;
+	cursor:pointer;
+    color:#030303;
+	font-size:15px;
+	font-weight:bold;
+	padding:10px 10px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+    margin-right: 100px;
+    margin-left: -5px;
+}
+
 .btnRight {
     float: right;
 	box-shadow:inset 0px 1px 0px 0px #ffffff;
